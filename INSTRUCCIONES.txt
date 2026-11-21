@@ -1,0 +1,9 @@
+FretTrainer - Publicacion en GitHub Pages
+
+1. Crea un repositorio PUBLICO llamado frettrainer en GitHub.
+2. Descomprime este ZIP. Sube los archivos index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png y .nojekyll a la RAIZ del repositorio (Add file > Upload files).
+3. En Settings > Pages, Source: Deploy from a branch, Branch: main, folder: /(root), Save.
+4. Espera la publicacion y abre https://TU_USUARIO.github.io/frettrainer/
+5. Comparte ese enlace. Los datos de cada usuario se guardan en su navegador.
+
+Aviso: la web es publica y no sincroniza los datos entre dispositivos.
